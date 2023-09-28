@@ -3117,7 +3117,7 @@ f2b6ce9fba9cbbce92e6f3b116c2c94e ntsc|cic6102|cpak|rpak # Susume! Taisen Puzzle 
 08a122cbccff689960dd7b631a91624f ntsc|cic6102|cpak|rpak # Susume! Taisen Puzzle Dama Toukon! Marumata Chou
 d3329908bc295ced3d1c44683bda4a3a ntsc|cic6102|cpak|rpak # Susume! Taisen Puzzle Dama Toukon! Marumata Chou
 fcdd758bc44f7bfefe092c77d893fa79 ntsc|cic6102 # Swoop 64, The (World) (Homebrew)
-2a8b22f504b8724a5ca332bc79923503 ntsc|cic6102 # Sydney 2000 (Prototype)
+2a8b22f504b8724a5ca332bc79923503 pal|cic6102 # Sydney 2000 (Prototype)
 a41f00c60fd8160d0e13a664f2cd43d4 ntsc|cic6102 # Sydney 2000 (Prototype)
 bf75f1ca914dba12b0e79bf4937c0984 ntsc|cic6102 # T-Shirt Demo by Neptune and Steve
 2f2bbcc2cdb7ea7fa1c4b8dc090992b5 ntsc|cic6102 # T-Shirt Demo by Neptune and Steve
